@@ -1,0 +1,20 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="faviconGradient" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#D4A08A"/>
+      <stop offset="0.54" stop-color="#5E78AB"/>
+      <stop offset="1" stop-color="#273A63"/>
+    </linearGradient>
+    <linearGradient id="shineGradient" x1="16" y1="12" x2="46" y2="34" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity="0.42"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="4" y="4" width="56" height="56" rx="18" fill="url(#faviconGradient)"/>
+  <rect x="8" y="8" width="48" height="20" rx="10" fill="url(#shineGradient)"/>
+  <path
+    d="M21 18.5V45.5H37V39H28.1V18.5H21ZM47 24.9C45.9 22.1 43.1 20 39.5 20C35 20 31.8 22.7 31.8 26.8C31.8 30.3 34 32.2 37.6 33.1L40.2 33.8C42 34.3 42.9 34.9 42.9 36.2C42.9 37.7 41.6 38.9 39.3 38.9C37.1 38.9 35.3 38 34.3 36L29.4 39C31.3 42.9 34.8 45 39.3 45C45 45 48.3 41.9 48.3 36.3C48.3 32.7 46.3 30.6 42.4 29.6L39.7 28.9C37.9 28.4 37.2 27.7 37.2 26.5C37.2 25.1 38.4 24 40.1 24C41.7 24 42.8 24.7 43.6 26.2L47 24.9Z"
+    fill="white"
+  />
+</svg>

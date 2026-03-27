@@ -1,0 +1,12 @@
+<svg width="800" height="1000" viewBox="0 0 800 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="1000" rx="48" fill="#EAF3F2"/>
+  <circle cx="190" cy="170" r="150" fill="#F0C8A8"/>
+  <circle cx="670" cy="200" r="120" fill="#B9E2E0"/>
+  <path d="M90 880C160 720 270 640 400 640C530 640 640 720 710 880" fill="#0E6B71" fill-opacity="0.13"/>
+  <circle cx="400" cy="360" r="126" fill="#0E6B71" fill-opacity="0.15"/>
+  <path d="M248 760C248 660.589 328.589 580 428 580H372C471.411 580 552 660.589 552 760V820H248V760Z" fill="#0E6B71" fill-opacity="0.22"/>
+  <rect x="78" y="82" width="644" height="836" rx="34" stroke="#0E6B71" stroke-opacity="0.12" stroke-width="4"/>
+  <text x="400" y="918" text-anchor="middle" fill="#0B3D42" font-family="Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="10">
+    LEENA SAINI
+  </text>
+</svg>
